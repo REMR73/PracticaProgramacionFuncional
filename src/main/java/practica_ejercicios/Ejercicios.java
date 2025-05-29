@@ -1,9 +1,9 @@
-import models.Empleado;
-import models.Producto;
+package practica_ejercicios;
 
-import java.math.BigDecimal;
+import models.ejercicio2.Empleado;
+import models.ejercicio2.Producto;
+
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class Ejercicios {
     // Método con ejercicios para que el estudiante complete
@@ -29,7 +29,7 @@ public class Ejercicios {
 
 
         // Solución 3
-        System.out.println("\n3. models.Producto más barato por categoría:");
+        System.out.println("\n3. models.ejercicio2.Producto más barato por categoría:");
 
         // Solución 4
         System.out.println("\n4. Nombres de empleados separados por coma:");

@@ -1,4 +1,4 @@
-package models;
+package models.ejercicio2;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
